@@ -1,0 +1,7 @@
+# Ignore Python virtual environment
+/Licenta.API/env/
+/Licenta.API/.idea/
+/Licenta.API/__pycache__/
+
+# Ignore Angular node modules
+/LICENTA_UI/.idea/
